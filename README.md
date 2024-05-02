@@ -20,7 +20,6 @@ Our product is a web application that consists the following features:
 - Borrow books/DVD’s/Games/Music
 - Fines for overdue
 - Database of books/DVD’s/Games/Music
-- Shipment of  books/DVD’s/Games/Music
 - Subscription service for ebooks/audiobooks
 
 **Need and Value**
